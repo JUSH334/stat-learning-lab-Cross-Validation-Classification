@@ -1,7 +1,7 @@
 # Statistical Learning Lab: Cross-Validation, Bootstrap & Classification
 ## CS 5565 - Dr. Lowe
 ## Student ID Seed: 5698
-## LLM Model: Claude (Anthropic AI)
+## LLM Model Assistance: Claude (Anthropic AI)
 
 ### Section 1: Cross-Validation & Bootstrap
 - Task 1: Validation Set Approach (seed: 5698)
